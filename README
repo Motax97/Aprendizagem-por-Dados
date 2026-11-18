@@ -1,0 +1,21 @@
+USAGE :
+  java Main testfile
+  java Main trainfdata testfile
+
+Compile:
+  ./compile.sh
+
+Notes:
+  We assume the first column of testdata to be id and the first row to have attribute's name.
+  filetest1 is the example input of restaurant.csv
+  filetest2 is the example input of weather.csv
+  
+  
+Examples:
+  java Main data/restaurant.csv testfile1
+  java Main data/weather.csv testfile2
+
+
+
+Outros intervenvientes do projeto:
+Github User: cemanuelsilva (https://github.com/cemanuelsilva); DiogoAluai(https://github.com/DiogoAluai);
